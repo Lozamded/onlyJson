@@ -1,0 +1,40 @@
+{
+  "jsonVersion": "1.0.0.0",
+  "jsonFecha": "09/05/2019",
+  "MAS": [
+    {
+        "codigo": "0001",
+        "nombre": "Primera MAS",
+        "version": 2,
+        "fecha": "08/05/2019",
+        "curso": "RTA",
+        "nivel": "1b",
+        "url": "file:///C:/Users/lorde/Desktop/MAS/mas001.unity3d",
+        "capturas": [
+            "www.descargamas.com/capture1.png",
+            "www.descargamas.com/capture2.png",
+            "www.descargamas.com/capture3.png"
+        ],
+        "scripts": [
+            "file:///C:/Users/lorde/Desktop/MAS/BundleTest.cs"
+        ],
+        "scenne": "DemoBundleScenne"
+    },
+    {
+        "codigo": "0002",
+        "nombre": "Segunda MAS",
+        "version": 2,
+        "fecha": "09/05/2019",
+        "curso": "DPA",
+        "nivel": "2b",
+        "url": "file:///C:/Users/lorde/Desktop/MAS/mas002.unity3d",
+        "capturas": [
+            "www.descargamas.com/capture1.png",
+            "www.descargamas.com/capture2.png",
+            "www.descargamas.com/capture3.png"
+        ],
+        "scripts": [],
+        "scenne": "DemoBundleScenne"
+    }
+  ]
+}
